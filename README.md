@@ -1,5 +1,10 @@
-### Hi there 👋
-
+ Buenos dias!👋
+I'm gilbert Kamau a student at the university of Eastern Africa, Baraton  
+I'm currently working on a car parts system🚗
+Journeying to be a full stack developer😁✌
+Proficient in Html,css,Javascript,react,python
+Also a huge lover of cars🚙🚗
+and have a passion for football⚽
 <!--
 **GilbertKamau/GilbertKamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
