@@ -1,5 +1,5 @@
  Buenos dias!👋
-I'm gilbert Kamau a student at the university of Eastern Africa, Baraton  
+I'm Gilbert Kamau a student at the university of Eastern Africa, Baraton  
 I'm currently working on a car parts system🚗
 Journeying to be a full stack developer😁✌
 Proficient in Html,css,Javascript,react,python
